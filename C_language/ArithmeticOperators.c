@@ -30,3 +30,5 @@ int main(int argc, char const *argv[]) // It is the main method for executing th
 
     return 0;
 }
+
+// The command for running the above program is "gcc ArithmeticOperators.c -o ArithmeticOperators" and then "./ArithmeticOperators".
